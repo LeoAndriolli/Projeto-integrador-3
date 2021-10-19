@@ -1,6 +1,7 @@
 # (título) -- Projeto Integrador II
 
 Acesso rápido:
+  - [Introdução](./introducao.md)
   - [Concepção](./concepcao.md)
   - [Design/Projeto](./design.md)
   - [Implementação](./implementacao.md)
@@ -19,6 +20,6 @@ Veja [exemplos de projetos anteriores](https://lpae.github.io/pi2_eng/21_1/).
 
 ## Referências
 
-Colocar aqui as referências. _Sempre em formato ABNT_.
+TEZA, Vanderlei Rabelo. **ALGUNS ASPECTOS SOBRE A AUTOMAÇÃO RESIDENCIAL - DOMÓTICA**. 2002. 108 f. Dissertação (Mestrado) - Curso de Ciência da Computação, Universidade Federal de Santa Catarina, Florianópolis, 2002.
 
-ADMIN. **Casa inteligente: a tecnologia de Black Mirror já está o seu alcance!** Disponível em: <https://www.delmak.com.br/casa-inteligente-a-tecnologia-de-black-mirror-ja-esta-ao-seu-alcance/>. Acesso em: 23 mai. 2021.
+
