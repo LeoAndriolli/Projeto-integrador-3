@@ -10,7 +10,7 @@ Acesso rápido:
 
 ## Introdução
 <p>
-Esse texto tem o objetivo de contextualizar o tópico de **domótica**, o tema do presente projeto. 
+  Esse texto tem o objetivo de contextualizar o tópico de <bold>domótica</bold>, o tema do presente projeto. 
 </p>
 
 ## Domótica
