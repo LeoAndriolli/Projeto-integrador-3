@@ -1,4 +1,4 @@
-# (título) -- Projeto Integrador II
+# (Domótica) -- Projeto Integrador II
 
 Acesso rápido:
   - [Concepção](./concepcao.md)
