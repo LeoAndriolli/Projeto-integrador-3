@@ -6,10 +6,6 @@ Acesso rápido:
   - [Design/Projeto](./design.md)
   - [Implementação](./implementacao.md)
 
-
-
-
-
 ## Referências
 
 Colocar aqui as referências. _Sempre em formato ABNT_.
