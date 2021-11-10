@@ -51,18 +51,20 @@ Cada participante da disciplina irá desenvolver o projteto em torno de uma maqu
       <li>Vazamentos de gás e focos de fumaça no ambiente</li>
       <li>Presença de indivíduo próximo à central</li>
       <li>Presença de indivíduo na área com vazamento de gás / foco de fumaça</li>
+      <li>Monitoramento da temperatura no ambiente</li>
     </ul>
   </li>
   <li>Controle:
     <ul>
       <li>Controle de bomba de água(Com relé) para regar jardim</li>
-      <li>Abertura e fechamento de janela para ventilação em caso de gás / incêndio</li>
+      <li>Abertura e fechamento de janela para ventilação em caso de gás / incêndio / alta temperatura</li>
       <li>Controle do estado de ligado ou não do display da central de controle</li>
     </ul>
   </li>
   <li>Ações:
     <ul>
       <li>Na presença de gás, abrir a janela</li>
+      <li>Em caso de alta temperatura, abrir janela</li>
       <li>Ligamento e desligamento do display da central no caso de presença de indivíduo próximo</li>
       <li>Disparo de alarme(buzzer) no caso de fumaça ou vazamento de gás</li>
       <li>Se é identificada fumaça, abre ou fecha a janela dependendo se há ou não indivíduos próximos</li>
