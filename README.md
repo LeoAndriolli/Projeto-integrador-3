@@ -6,7 +6,7 @@ Acesso rápido:
   - [Implementação](./implementacao.md)
   - [Operação](./operacao.md)
 
-## 1 - Introdução
+## Introdução
 <p>
 A domótica pode ser caracterizada como o conjunto de técnicas 
 e sistemas que permitem realizar a automação de vários sistemas 

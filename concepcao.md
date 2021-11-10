@@ -47,36 +47,34 @@ Cada participante da disciplina irá desenvolver o projteto em torno de uma maqu
 <ul>
   <li>Monitoramento:
     <ul>
-      <li>Umidade e temperatura residencial</li>
-      <li>Umidade do solo em algum jardim</li>
-      <li>Vazamentos de gás no ambiente residencial</li>
-      <li>Focos de fumaças</li>
+      <li>Umidade do solo no jardim</li>
+      <li>Vazamentos de gás e focos de fumaça no ambiente</li>
       <li>Presença de indivíduo próximo à central</li>
       <li>Presença de indivíduo na área com vazamento de gás / foco de fumaça</li>
     </ul>
   </li>
   <li>Controle:
     <ul>
-      <li>Controle de bomba de água para regar plantas</li>
-      <li>Abertura e fechamento de janela para ventilação</li>
-      <li>Ligamento e desligamento de display no caso de presença de indivíduo</li>
+      <li>Controle de bomba de água(Com relé) para regar jardim</li>
+      <li>Abertura e fechamento de janela para ventilação em caso de gás / incêndio</li>
+      <li>Controle do estado de ligado ou não do display da central de controle</li>
     </ul>
   </li>
   <li>Ações:
     <ul>
-      <li>Disparo de alarme em situações de risco</li>
-      <li>Caso identificado foco de fumaça verifica se há pessoa no ambiente para fechar ou abrir a janela</li>
-      <li>No caso de alguém se aproximar de um ambiente monitorado com risco dispara o buzzer</li>
-      <li>Acionar relé para regar jardim</li>
       <li>Na presença de gás, abrir a janela</li>
+      <li>Ligamento e desligamento do display da central no caso de presença de indivíduo próximo</li>
+      <li>Disparo de alarme(buzzer) no caso de fumaça ou vazamento de gás</li>
+      <li>Se é identificada fumaça, abre ou fecha a janela dependendo se há ou não indivíduos próximos</li>
+      <li>Quando alguém se aproxima ao ambiente com risco, padrão do buzzer muda</li>
+      <li>Acionar relé para regar jardim</li>
     </ul>
   </li>
   <li>Visualização:
     <ul>
-      <li>Informar situação interna do sistema através de um display LCD</li>
-      <li>Fornecer uma interface rápida utilizando a matriz de LEDs 8x8</li>
-      <li>Fornecer padrões sonoros utilizando o buzzer para informar possíveis perigos</li>
-      <li>Utiliza o sensor ultrasônico para ligar ou desligar as interfaces do sistema</li>
+      <li>Fornecer uma interface para interação com o sistema usando o display lcd</li>
+      <li>Exibir padrões sonoros do buzzer diferentes dependendo da situacão de risco</li>
+      <li>Mostrar estado do sistema usando a matriz de leds 8x8</li>
     </ul>
   </li>
 </ul>
