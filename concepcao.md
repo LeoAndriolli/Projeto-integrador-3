@@ -1,10 +1,11 @@
 # Concepção
 
 Acesso rápido:
-  - [Início](https://github.com/JoaoMario109/projeto-integrador-2)
-  - [Design/Projeto](./design.md)
-  - [Implementação](./implement.md)
-  - [Operação](./operate.md)
+
+- [Início](https://github.com/JoaoMario109/projeto-integrador-2)
+- [Design/Projeto](./design.md)
+- [Implementação](./implement.md)
+- [Operação](./operate.md)
 
 <p>
 O projeto visa o desenvolvimento de um sistema de automação de tarefas residenciais que atendam aos requisítos do cliente, implementando todas as necessidades e estabelecendo um sistema final de baixo custo, fácil utilização e manutenção bem como visando o conforto e praticidade gerada pelo sistema final.
@@ -15,6 +16,7 @@ Cada participante da disciplina irá desenvolver o projteto em torno de uma maqu
 <hr>
 
 ### Materiais Utilizados
+
 <ul>
   <li>Controlador:
     <ul>
@@ -44,10 +46,10 @@ Cada participante da disciplina irá desenvolver o projteto em torno de uma maqu
 <hr>
 
 ### Objetivação Prévia do Projeto
+
 <ul>
   <li>Monitoramento:
     <ul>
-      <li>Umidade do solo no jardim</li>
       <li>Vazamentos de gás e focos de fumaça no ambiente</li>
       <li>Presença de indivíduo próximo à central</li>
       <li>Presença de indivíduo na área com vazamento de gás / foco de fumaça</li>
@@ -56,20 +58,19 @@ Cada participante da disciplina irá desenvolver o projteto em torno de uma maqu
   </li>
   <li>Controle:
     <ul>
-      <li>Controle de bomba de água(Com relé) para regar jardim</li>
-      <li>Abertura e fechamento de janela para ventilação em caso de gás / incêndio / alta temperatura</li>
+      <li>Controle de sprinklers de água para incêndio</li>
+      <li>Abertura e fechamento de janela para ventilação em caso de gás / incêndio</li>
       <li>Controle do estado de ligado ou não do display da central de controle</li>
     </ul>
   </li>
   <li>Ações:
     <ul>
       <li>Na presença de gás, abrir a janela</li>
-      <li>Em caso de alta temperatura, abrir janela</li>
       <li>Ligamento e desligamento do display da central no caso de presença de indivíduo próximo</li>
       <li>Disparo de alarme(buzzer) no caso de fumaça ou vazamento de gás</li>
       <li>Se é identificada fumaça, abre ou fecha a janela dependendo se há ou não indivíduos próximos</li>
       <li>Quando alguém se aproxima ao ambiente com risco, padrão do buzzer muda</li>
-      <li>Acionar relé para regar jardim</li>
+      <li>Acionar relé para ligar sprinklers de água no caso de incêndio, enquanto a temperatura permanecer alta(fogo) manter o sprinkler ligado</li>
     </ul>
   </li>
   <li>Visualização:
